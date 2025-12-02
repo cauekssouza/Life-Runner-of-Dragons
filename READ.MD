@@ -1,0 +1,1 @@
+## Quero um jogo onde eu possa correr com meu personagem e também a regra é clara, este personagem tem como objetivo chegar na linha de chegada, mas vai ter obstáculos pelo caminho, se o personagem perder as 5 vidas que tem ele perde completamente do jogo e se chegar no final passa para a proxima Fase.
